@@ -1,0 +1,8 @@
+# Movimento Social-Autonomista — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://movimento-social-autonomista.vercel.app/sitemap.xml
+
+# Disallow nada — todo o conteúdo é livre e indexável
